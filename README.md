@@ -3,7 +3,7 @@
 ***Questão Obrigatória***: Questão 3
 
 ***Membros***:
-  >> Edilton Damasceno
-  >> Kelmer Passos
-  >> Mikelly Correia
-  >> Ruan Cardoso
+  * Edilton Damasceno
+  * Kelmer Passos
+  * Mikelly Correia
+  * Ruan Cardoso
